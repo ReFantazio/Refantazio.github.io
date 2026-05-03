@@ -14,9 +14,9 @@ My applied work has been adopted by national ministries and government agencies,
 
 ## Research Interests
 
-- **Large Language Models:** reasoning control, LLM safety, backdoor defense, multilingual generation and retrieval
-- **Network Security:** malware classification, clean-label attacks, robust and trustworthy learning systems
-- **Natural Language Processing:** dialogue systems, controllable generation, machine translation, cross-lingual information retrieval
+- **Security Semantic Mining:** extracting security-relevant meaning from text, code, vulnerabilities, and threat intelligence.
+- **Trustworthy and Secure LLMs:** building reliable, robust, and controllable large language models for high-stakes settings.
+- **Cybersecurity Agents and World Models:** developing agentic systems that understand cyber environments and support security operations.
 
 ## News
 
