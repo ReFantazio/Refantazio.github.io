@@ -9,7 +9,7 @@ I am Yunpeng Li, an Associate Professor at the Institute of Information Engineer
 
 My current work studies how large models and LLM-based agents can be made reliable, secure, and useful in cybersecurity workflows. I am particularly interested in LLM safety, agent orchestration, vulnerability discovery, security analysis, cyber threat intelligence, and risk-aware decision support.
 
-I have led or contributed to multiple national and provincial research programs, including projects related to key infrastructure, national key R&D, major science and technology initiatives, and joint key funding from the National Natural Science Foundation of China. I have published more than 40 papers in international conferences and journals, including AAAI, NeurIPS, SIGIR, ACL, and related venues.
+I have led or contributed to multiple national and provincial research programs, including National 2030 Critical Infrastructure, national key R&D projects, major science and technology initiatives, and joint key funding from the National Natural Science Foundation of China. I have published more than 40 papers in international conferences and journals, including AAAI, NeurIPS, SIGIR, ACL, and related venues.
 
 My applied work has been adopted by national ministries and government agencies, and has supported cybersecurity assurance for major national events, including the Winter Olympics, the National Two Sessions, and major commemorative events marking the 80th anniversary of the victory in the Chinese People's War of Resistance Against Japanese Aggression and the World Anti-Fascist War. I also led the development of a national-level regulatory operations platform, which has become a core system for analysis, risk perception, and early-warning support.
 
