@@ -13,8 +13,8 @@ I have led or contributed to multiple national-level and provincial research pro
 ### Selected Highlights
 
 - **Academic Publications:** Published over 40 papers in leading international conferences and journals, including AAAI, NeurIPS, SIGIR, ACL, and related venues, with research spanning large language models, cross-lingual information retrieval, machine translation, controllable generation, and security-oriented machine learning.
-- **Project Leadership:** Led national-level, fund-supported, and engineering-oriented research projects on trustworthy large language models, AI security, vulnerability discovery, and intelligent cybersecurity systems.
-- **Project Participation:** Contributed to multiple national-level and provincial research projects, including programs related to key infrastructure, the National Key Research and Development Program of China, major national science and technology projects, and joint key funding from the National Natural Science Foundation of China.
+- **Research Leadership:** Led national-level, fund-supported, and engineering-oriented initiatives on trustworthy large language models, AI security, vulnerability discovery, and intelligent cybersecurity systems.
+- **Collaborative Contributions:** Contributed to multiple national-level and provincial research programs, including efforts related to key infrastructure, the National Key Research and Development Program of China, major national science and technology projects, and joint key funding from the National Natural Science Foundation of China.
 
 ## Research Interests
 
