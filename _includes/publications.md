@@ -16,7 +16,7 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      {% assign primary_link = link.page | default: link.pdf %}
+      {% assign primary_link = link.pdf %}
       <div class="title">
         {% if primary_link %}
         <a href="{{ primary_link }}" target="_blank" rel="noopener">{{ link.title }}</a>
@@ -31,23 +31,22 @@
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">PDF</a>
       {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Code</a>
+      {% assign github_link = link.github %}
+      {% if github_link == nil %}
+        {% if link.code contains 'github.com' %}
+        {% assign github_link = link.code %}
+        {% endif %}
       {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Page</a>
+      {% if github_link %}
+      <a href="{{ github_link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">GitHub</a>
       {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">BibTeX</a>
+      {% assign huggingface_link = link.huggingface | default: link.hugging_face %}
+      {% if huggingface_link %}
+      <a href="{{ huggingface_link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Hugging Face</a>
       {% endif %}
-      {% if link.doi %}
-      <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">DOI</a>
-      {% endif %}
-      {% if link.notes %} 
+      {% assign note_type = link.notes | downcase %}
+      {% if note_type == 'poster' or note_type == 'oral' %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
       {% endif %}
     </div>
   </div>
