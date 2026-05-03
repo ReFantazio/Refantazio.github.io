@@ -1,0 +1,47 @@
+# Basic Information
+title: Yunpeng Li
+position: Associate Professor
+affiliation: Institute of Information Engineering, Chinese Academy of Sciences
+affiliation_link: https://www.iie.cas.cn/
+email: liyunpeng (at) iie.ac.cn
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Yunpeng Li, Institute of Information Engineering, Chinese Academy of Sciences, large language models, network security, dialogue systems, cross-lingual information retrieval
+description: Academic homepage of Yunpeng Li, Associate Professor at the Institute of Information Engineering, Chinese Academy of Sciences.
+
+# Links
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?hl=en&user=CDyIJocAAAAJ
+openreview: https://openreview.net/profile?id=~Yunpeng_Li7
+orcid: https://orcid.org/0000-0002-5156-889X
+acl_anthology: https://aclanthology.org/people/yunpeng-li/
+
+# Images (e.g., your profile picture and your website's favicon)
+# Replace avatar.svg with a profile photo whenever one is available.
+avatar: ./assets/img/avatar.svg
+favicon: ./assets/img/favicon.svg
+favicon_dark: ./assets/img/favicon-dark.svg
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Sans Serif" # or "Serif"
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
