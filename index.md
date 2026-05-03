@@ -10,12 +10,6 @@ My research interests include trustworthy and safe large language models, LLM-ba
 
 I have led or contributed to multiple national-level and provincial research projects, including programs related to key infrastructure, the National Key Research and Development Program of China, major national science and technology projects, and joint key funding from the National Natural Science Foundation of China. My research has resulted in more than 40 publications in leading international conferences and journals, including AAAI, NeurIPS, SIGIR, ACL, and related venues. Beyond publications, my technical work has been adopted by national ministries and government agencies and used in cybersecurity assurance for major national events, including the Winter Olympics, the National Two Sessions, and the September 3rd military parade. I also led the development of a regulatory business system deployed at the national level, where it has become a core operational platform for analysis, risk perception, and early-warning support.
 
-### Selected Highlights
-
-- **Academic Publications:** Published over 40 papers in leading international conferences and journals, including AAAI, NeurIPS, SIGIR, ACL, and related venues, with research spanning large language models, cross-lingual information retrieval, machine translation, controllable generation, and security-oriented machine learning.
-- **Research Leadership:** Led national-level, fund-supported, and engineering-oriented initiatives on trustworthy large language models, AI security, vulnerability discovery, and intelligent cybersecurity systems.
-- **Collaborative Contributions:** Contributed to multiple national-level and provincial research programs, including efforts related to key infrastructure, the National Key Research and Development Program of China, major national science and technology projects, and joint key funding from the National Natural Science Foundation of China.
-
 ## Research Interests
 
 - **Large Language Models:** reasoning control, LLM safety, backdoor defense, multilingual generation and retrieval
