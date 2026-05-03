@@ -11,7 +11,7 @@ My current work studies how large models and LLM-based agents can be made reliab
 
 I have led or contributed to multiple national and provincial research programs, including National 2030 Critical Infrastructure, National Key Research and Development, National Science and Technology Major Projects, and the Joint Key Fund of the National Natural Science Foundation of China. I have published more than 40 papers in international conferences and journals, including AAAI, NeurIPS, SIGIR, ACL, and related venues.
 
-My applied work has been adopted by national ministries and government agencies, and has supported cybersecurity assurance for major national events, including the Winter Olympics, the National Two Sessions, and the Major Commemorative Events Marking the 80th Anniversary of the Victory in the Chinese People's War of Resistance Against Japanese Aggression and the World Anti-Fascist War. I also led the development of a national-level regulatory operations platform, which has become a core system for analysis, risk perception, and early-warning support.
+My applied work has been deployed across multiple national ministries and government agencies, and has supported cybersecurity assurance in important national-level settings, including the Winter Olympics, the National Two Sessions, and the Commemorative Activities Marking the 80th Anniversary of the Victory in the Chinese People's War of Resistance Against Japanese Aggression and the World Anti-Fascist War. I also led the development of a national-level regulatory operations platform, which has become a core system for analysis, risk perception, and early-warning support.
 
 ## Research Interests
 
