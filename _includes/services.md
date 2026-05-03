@@ -1,4 +1,9 @@
+{% assign is_zh = page.lang | default: "" %}
+{% if is_zh contains "zh" %}
+## 学术主页
+{% else %}
 ## Academic Profiles
+{% endif %}
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://scholar.google.com/citations?hl=en&user=CDyIJocAAAAJ" target="_blank" rel="noopener"><autocolor>Google Scholar</autocolor></a></li>

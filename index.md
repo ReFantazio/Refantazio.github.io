@@ -1,5 +1,6 @@
 ---
 layout: homepage
+lang: en-US
 ---
 
 ## About Me

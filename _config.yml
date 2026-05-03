@@ -19,9 +19,9 @@ acl_anthology: https://aclanthology.org/people/yunpeng-li/
 
 # Images (e.g., your profile picture and your website's favicon)
 # Replace avatar.svg with a profile photo whenever one is available.
-avatar: ./assets/img/avatar.svg
-favicon: ./assets/img/favicon.svg
-favicon_dark: ./assets/img/favicon-dark.svg
+avatar: /assets/img/avatar.svg
+favicon: /assets/img/favicon.svg
+favicon_dark: /assets/img/favicon-dark.svg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

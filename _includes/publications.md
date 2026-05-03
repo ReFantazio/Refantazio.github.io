@@ -1,4 +1,5 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+{% assign is_zh = page.lang | default: "" %}
+<h2 id="publications" style="margin: 2px 0px -15px;">{% if is_zh contains "zh" %}论文发表{% else %}Publications{% endif %}</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -9,7 +10,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }} teaser">
+    <img src="{{ link.image | relative_url }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }} teaser">
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
