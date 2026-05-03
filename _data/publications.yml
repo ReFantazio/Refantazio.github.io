@@ -6,7 +6,7 @@ main:
     conference: 39th Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://openreview.net/pdf?id=jv7OHhQ0YP
     page: https://openreview.net/forum?id=jv7OHhQ0YP
-    image: ./assets/img/research-security.svg
+    image: ./assets/img/paper-repguard.png
     notes: Poster
 
   - title: "Not All Benignware Are Alike: Enhancing Clean-Label Attacks on Malware Classifiers"
@@ -15,7 +15,7 @@ main:
     conference: ACM Web Conference <strong>(WWW)</strong>, 2025.
     pdf: https://openreview.net/pdf?id=X8oa3cJEfv
     page: https://openreview.net/forum?id=X8oa3cJEfv
-    image: ./assets/img/research-security.svg
+    image: ./assets/img/paper-benignware.png
     notes: Poster
 
   - title: "Can We Steer Reasoning Direction by Thinking Intervention?"
@@ -26,7 +26,7 @@ main:
     page: https://aclanthology.org/2025.findings-emnlp.209/
     bibtex: https://aclanthology.org/2025.findings-emnlp.209.bib
     doi: https://doi.org/10.18653/v1/2025.findings-emnlp.209
-    image: ./assets/img/research-llm.svg
+    image: ./assets/img/paper-thinking-intervention.png
 
   - title: "Steering Large Language Models for Cross-lingual Information Retrieval"
     authors: Ping Guo, Yubing Ren, Yue Hu, Yanan Cao, <strong>Yunpeng Li</strong>, Heyan Huang
@@ -34,7 +34,7 @@ main:
     conference: 47th International ACM SIGIR Conference on Research and Development in Information Retrieval <strong>(SIGIR)</strong>, 2024.
     page: https://doi.org/10.1145/3626772.3657819
     doi: https://doi.org/10.1145/3626772.3657819
-    image: ./assets/img/research-retrieval.svg
+    image: ./assets/img/paper-asmr.png
 
   - title: "Query in Your Tongue: Reinforce Large Language Models with Retrievers for Cross-lingual Search Generative Experience"
     authors: Ping Guo, Yue Hu, Yanan Cao, Yubing Ren, <strong>Yunpeng Li</strong>, Heyan Huang
@@ -42,7 +42,7 @@ main:
     conference: ACM Web Conference <strong>(WWW)</strong>, 2024.
     pdf: https://openreview.net/pdf?id=Bukc7HhE3Y
     page: https://openreview.net/forum?id=Bukc7HhE3Y
-    image: ./assets/img/research-retrieval.svg
+    image: ./assets/img/paper-query-tongue.png
     notes: Oral
 
   - title: "Teaching Large Language Models to Translate on Low-resource Languages with Textbook Prompting"
@@ -52,7 +52,7 @@ main:
     pdf: https://aclanthology.org/2024.lrec-main.1362.pdf
     page: https://aclanthology.org/2024.lrec-main.1362/
     bibtex: https://aclanthology.org/2024.lrec-main.1362.bib
-    image: ./assets/img/research-llm.svg
+    image: ./assets/img/paper-talent.png
 
   - title: "Psychology-guided Controllable Story Generation"
     authors: Yuqiang Xie, Yue Hu, <strong>Yunpeng Li</strong>, Guanqun Bi, Luxi Xing, Wei Peng
@@ -61,7 +61,7 @@ main:
     pdf: https://aclanthology.org/anthology-files/pdf/coling/2022.coling-1.564.pdf
     page: https://aclanthology.org/2022.coling-1.564/
     bibtex: https://aclanthology.org/2022.coling-1.564.bib
-    image: ./assets/img/research-nlp.svg
+    image: ./assets/img/paper-pics.png
 
   - title: "Guiding Neural Machine Translation with Semantic Kernels"
     authors: Ping Guo, Yue Hu, Xiangpeng Wei, Yubing Ren, <strong>Yunpeng Li</strong>, Luxi Xing, Yuqiang Xie
@@ -71,4 +71,4 @@ main:
     page: https://aclanthology.org/2022.findings-emnlp.541/
     bibtex: https://aclanthology.org/2022.findings-emnlp.541.bib
     doi: https://doi.org/10.18653/v1/2022.findings-emnlp.541
-    image: ./assets/img/research-nlp.svg
+    image: ./assets/img/paper-skam.png
