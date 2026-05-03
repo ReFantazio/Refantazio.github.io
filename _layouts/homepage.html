@@ -68,6 +68,13 @@
           <a href="{{ '/zh/' | relative_url }}" class="{% if current_lang contains 'zh' %}active{% endif %}">中文</a>
           <a href="{{ '/' | relative_url }}" class="{% unless current_lang contains 'zh' %}active{% endunless %}">English</a>
         </div>
+        <div class="last-updated">
+          {% if current_lang contains 'zh' %}
+          最后更新：{{ site.time | date: "%Y-%m-%d" }}
+          {% else %}
+          Last updated: {{ site.time | date: "%B %-d, %Y" }}
+          {% endif %}
+        </div>
 
         <br>
         <br>
